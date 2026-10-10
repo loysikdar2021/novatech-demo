@@ -12,7 +12,7 @@ cd novatech-demo
 
 # Install dependencies
 npm install
-```
+
 # Run Server
 npm run dev
 ```
