@@ -13,6 +13,14 @@ cd novatech-demo
 # Install dependencies
 npm install
 ```
+# Run Server
+npm run dev
+```
+
+# ----------------------------------------
+# - Local:    http://localhost:3000
+# - Network:  http://192.168.0.7:3000
+# ----------------------------------------
 
 ### 2. Figma Designs (Optional)
 
